@@ -23,8 +23,11 @@ Transitioned into IT from a high-responsibility background involving active work
 
 Contacts:
 
+<a href="https://linkedin.com/in/stupel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:as38d2b@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://t.me/alex_imideal"><img
    src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"
    alt="Telegram"/></a>
 <a href="https://wa.me/37122847604"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<a href="mailto:as38d2b@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=qastupel)
